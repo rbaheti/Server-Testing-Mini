@@ -4,6 +4,7 @@
 
 ## The purpose of this guided demo is to get you to set up your environment for building out your CRUD API with Documentation, tests and of course, your endpoints.
 
+## ***For this assignment, plase check food-app project***
 ---
 
 ## Step 1. Project Initialization
@@ -15,6 +16,7 @@
   * body-parser
   * mongoose
   * mocha
+  * chai
   * chai-http
   * morgan --> this is new we'll chat about it.
   * sinon
